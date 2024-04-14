@@ -24,6 +24,7 @@ RegisterNumber:
 
 ## Output:
 
+![image](https://github.com/Sanafathima95773/GCD-of-two-numbers/assets/147084627/6dc4d3e5-c0be-4547-ae74-4f5d14f6c0d6)
 
 
 ## Result:
