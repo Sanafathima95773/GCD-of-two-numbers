@@ -31,7 +31,7 @@ print("GCD of two numbers is:",list[-1])
 ```
 
 ## Output:
-
+![alt text](<Screenshot 2024-04-24 063242.png>)
 
 
 
